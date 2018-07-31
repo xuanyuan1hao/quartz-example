@@ -1,4 +1,4 @@
 # SpringBootQuartz
 Quartz with Spring Boot
-2
+24
 quart spring boot test
